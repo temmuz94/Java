@@ -12,7 +12,7 @@ public class AL2 {
         names.add("chris");
         names.add("kristen");
         names.add("daniela");
-        System.out.println(names.contains("temmuz"));//false
+        System.out.println(names.contains("temmuz"));//
 names.remove("kristen");//removes kristen index from the names
         System.out.println(names);
         System.out.println(names.size());
